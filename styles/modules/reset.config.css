@@ -1,0 +1,12 @@
+*,
+*::after,
+*::before {
+  margin: 0;
+  padding: 0;
+}
+.nav-burger__button,
+input:focus,
+input {
+  outline: none;
+  border: none;
+}
